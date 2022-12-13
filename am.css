@@ -1,0 +1,24 @@
+h1, p
+{
+	color: red;
+	font-family: "Verdana" ;
+font-size: 15px;
+text-align: center;
+font-weight: bold
+
+}
+
+.amine
+{
+	color :green;
+}
+body
+{
+	
+	background-repeat: no-repeat ;
+	background-size: 100% ;
+}
+td{
+  border: 5px solid black;
+  padding: 10px;
+}
